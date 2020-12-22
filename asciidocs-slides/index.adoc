@@ -21,7 +21,7 @@ ifndef::backend[:backend: html5]
 * Contributors: 28
 * https://github.com/dankogai/js-base64[GitHub-Repository,role=external,window=_blank]
 * Current Version: 3.6.0
-* Latest Update: 4. November 2020
+* Latest Commit: 4. November 2020
 
 
 == axios
@@ -31,7 +31,7 @@ ifndef::backend[:backend: html5]
 * Contributors: 257
 * https://github.com/axios/axios[GitHub-Repository,role=external,window=_blank]
 * Current Version: 0.21.0
-* Latest Update: 23. October 2020
+* Latest Commit: 16. December 2020
 
 == bcrypt
 
@@ -40,7 +40,7 @@ ifndef::backend[:backend: html5]
 * Contributors: 68
 * https://github.com/kelektiv/node.bcrypt.js[GitHub-Repository,role=external,window=_blank]
 * Current Version: 5.0.0
-* Latest Update: 1. June 2020
+* Latest Commit: 6. December 2020
 
 == body-parser
 
@@ -49,7 +49,7 @@ ifndef::backend[:backend: html5]
 * Contributors: 24
 * https://github.com/expressjs/body-parser[GitHub-Repository,role=external,window=_blank]
 * Current Version: 1.19.0
-* Latest Update: 26. April 2019
+* Latest Commit: 27. March 2020
 
 == btoa
 
@@ -58,7 +58,7 @@ ifndef::backend[:backend: html5]
 * Contributors: 1
 * https://git.coolaj86.com/coolaj86/btoa.js.git[GitHub-Repository,role=external,window=_blank]
 * Current Version: 1.2.1
-* Latest Update: 28. March 2018
+* Latest Commit: 28. March 2018
 
 == colors
 
@@ -67,7 +67,7 @@ ifndef::backend[:backend: html5]
 * Contributors: 44
 * https://github.com/Marak/colors.js[GitHub-Repository,role=external,window=_blank]
 * Current Version: 1.4.0
-* Latest Update: 23. September 2019
+* Latest Commit: 31. December 2019
 
 == config
 
@@ -76,7 +76,7 @@ ifndef::backend[:backend: html5]
 * Contributors: 86
 * https://github.com/lorenwest/node-config[GitHub-Repository,role=external,window=_blank]
 * Current Version: 3.3.3
-* Latest Update: 26. November 2020
+* Latest Commit: 3. December 2020
 
 == cookie
 
@@ -85,7 +85,7 @@ ifndef::backend[:backend: html5]
 * Contributors: 20
 * https://github.com/jshttp/cookie[GitHub-Repository,role=external,window=_blank]
 * Current Version: 0.4.1
-* Latest Update: 22. April 2020
+* Latest Commit: 5. July 2020
 
 == debug
 
@@ -94,7 +94,7 @@ ifndef::backend[:backend: html5]
 * Contributors: 109
 * https://github.com/visionmedia/debug[GitHub-Repository,role=external,window=_blank]
 * Current Version: 4.3.2
-* Latest Update: 9. December 2020
+* Latest Commit: 9. December 2020
 
 == express
 
@@ -104,7 +104,7 @@ and mobile applications
 * Contributors: 262
 * https://github.com/expressjs/express[GitHub-Repository,role=external,window=_blank]
 * Current Version: 4.17.1
-* Latest Update: 24. May 2019
+* Latest Commit: 17. September 2020
 
 == express-async-errors
 
@@ -113,7 +113,7 @@ and mobile applications
 * Contributors: 1
 * https://github.com/davidbanham/express-async-errors[GitHub-Repository,role=external,window=_blank]
 * Current Version: 3.1.1
-* Latest Update: 12. October 2018
+* Latest Commit: 9. April 2020
 
 == fs-extra
 
@@ -123,7 +123,7 @@ support to the fs methods.
 * Contributors: 75
 * https://github.com/jprichardson/node-fs-extra[GitHub-Repository,role=external,window=_blank]
 * Current Version: 9.0.1
-* Latest Update: 4. June 2020
+* Latest Commit: 29. July 2020
 
 == get-folder-size
 
@@ -132,7 +132,7 @@ support to the fs methods.
 * Contributors: 3
 * https://github.com/alessioalex/get-folder-size[GitHub-Repository,role=external,window=_blank]
 * Current Version: 2.0.1
-* Latest Update: 21. January 2019
+* Latest Commit: 21. January 2019
 
 == joi
 
@@ -141,7 +141,7 @@ support to the fs methods.
 * Contributors: 183
 * https://github.com/sideway/joi[GitHub-Repository,role=external,window=_blank]
 * Current Version: 17.3.0
-* Latest Update: 24. October 2020
+* Latest Commit: 24. October 2020
 
 == joi-objectid
 
@@ -150,7 +150,7 @@ support to the fs methods.
 * Contributors: 1
 * https://github.com/mkg20001/joi-objectid[GitHub-Repository,role=external,window=_blank]
 * Current Version: 3.0.1
-* Latest Update: 26. September 2019
+* Latest Commit: 26. September 2019
 
 == jsdoc
 
@@ -159,7 +159,7 @@ support to the fs methods.
 * Contributors: 85
 * https://github.com/jsdoc/jsdoc[GitHub-Repository,role=external,window=_blank]
 * Current Version: 3.6.6
-* Latest Update: 20. September 2020
+* Latest Commit: 13. December 2020
 
 == jsonwebtoken
 
@@ -168,7 +168,7 @@ support to the fs methods.
 * Contributors: 93
 * https://github.com/auth0/node-jsonwebtoken[GitHub-Repository,role=external,window=_blank]
 * Current Version: 8.5.1
-* Latest Update: 18. March 2019
+* Latest Commit: 9. November 2020
 
 == lodash
 
@@ -178,7 +178,7 @@ numbers, objects, strings
 * Contributors: 307
 * https://github.com/lodash/lodash[GitHub-Repository,role=external,window=_blank]
 * Current Version: 4.17.20
-* Latest Update: 13. August 2020
+* Latest Commit: 21. December 2020
 
 == mongoose
 
@@ -188,7 +188,7 @@ Mongoose supports both promises and callbacks
 * Contributors: 547
 * https://github.com/Automattic/mongoose[GitHub-Repository,role=external,window=_blank]
 * Current Version: 5.11.8
-* Latest Update: 14. December 202
+* Latest Commit: 21. December 2020
 
 == nodejs-fs-utils
 
@@ -197,7 +197,7 @@ Mongoose supports both promises and callbacks
 * Contributors: 2
 * https://github.com/sergiu-gordienco/nodejs-fs-utils[GitHub-Repository,role=external,window=_blank]
 * Current Version: 1.2.5
-* Latest Update: 8. May 2020
+* Latest Commit: 8. May 2020
 
 == winston
 
@@ -206,7 +206,7 @@ Mongoose supports both promises and callbacks
 * Contributors: 325
 * https://github.com/winstonjs/winston[GitHub-Repository,role=external,window=_blank]
 * Current Version: 3.3.3
-* Latest Update: 24. June 2020
+* Latest Commit: 29. August 2020
 
 == winston-daily-rotate-file
 
@@ -216,7 +216,7 @@ and old logs can be removed based on count or elapsed days.
 * Contributors: 29
 * https://github.com/winstonjs/winston-daily-rotate-file[GitHub-Repository,role=external,window=_blank]
 * Current Version: 4.5.0
-* Latest Update: 13. June 2020
+* Latest Commit: 5. October 2020
 
 == winston-mongodb
 
@@ -225,4 +225,4 @@ and old logs can be removed based on count or elapsed days.
 * Contributors: 34
 * https://github.com/winstonjs/winston-mongodb[GitHub-Repository,role=external,window=_blank]
 * Current Version: 5.0.5
-* Latest Update: 13. September 2020
+* Latest Commit: 13. September 2020
