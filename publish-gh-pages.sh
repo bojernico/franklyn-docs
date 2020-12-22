@@ -5,6 +5,7 @@
 # WILL PUBLISH STUFF ON THE WEBSITE, DON'T SCREW UP
 BUILD_DIR="gh-pages"
 OLD=$(PWD)
+echo $OLD
 ORIGIN_URL=$(git config --get remote.origin.url)
 ${PWD}/build-slides-docker.sh
 cd $BUILD_DIR
