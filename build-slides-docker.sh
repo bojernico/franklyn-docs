@@ -8,7 +8,7 @@ cp -r -p -v $REVEAL_DIR $BUILD_DIR
 
 echo "Rendering slides"
 docker run --rm \
-           -v ${pwd}/$BUILD_DIR:/documents \
+           -v ${PWD}/$BUILD_DIR:/documents \
            asciidoctor/docker-asciidoctor:1.2.0 asciidoctor-revealjs \
            -r asciidoctor-diagram \
            -a icons=font \
