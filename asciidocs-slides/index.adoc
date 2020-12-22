@@ -1,6 +1,6 @@
 = Analysis Franklyn-Libraries
 Jonas Birklbauer, Nico Bojer, Lorenz Gahleitner, Tarik Hosic
-1.0, 2020-12-15
+1.0.1, 2020-12-22
 ifndef::sourcedir[:sourcedir: ../src/main/java]
 ifndef::imagesdir[:imagesdir: images]
 ifndef::backend[:backend: html5]
