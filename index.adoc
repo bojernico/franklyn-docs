@@ -1,0 +1,228 @@
+= Analysis Franklyn-Libraries
+Jonas Birklbauer, Nico Bojer, Lorenz Gahleitner, Tarik Hosic
+1.0.1, 2020-12-22
+ifndef::sourcedir[:sourcedir: ../src/main/java]
+ifndef::imagesdir[:imagesdir: images]
+ifndef::backend[:backend: html5]
+//:icons: font
+
+== Backend-Dependencies
+
+* All used libraries with:
+** description
+** author
+** version
+** link to GitHub-Repository
+
+== Base-64
+
+* Description: encrypts/decrypts Strings on base64
+* Used Version: 1.0.2
+* Contributors: 28
+* https://github.com/dankogai/js-base64[GitHub-Repository,role=external,window=_blank]
+* Current Version: 3.6.0
+* Latest Commit: 4. November 2020
+
+
+== axios
+
+* Description: Promise based HTTP client for the browser and node.js
+* Used Version: 0.18.0
+* Contributors: 257
+* https://github.com/axios/axios[GitHub-Repository,role=external,window=_blank]
+* Current Version: 0.21.0
+* Latest Commit: 16. December 2020
+
+== bcrypt
+
+* Description: Hash passwords
+* Used Version: 3.0.2
+* Contributors: 68
+* https://github.com/kelektiv/node.bcrypt.js[GitHub-Repository,role=external,window=_blank]
+* Current Version: 5.0.0
+* Latest Commit: 6. December 2020
+
+== body-parser
+
+* Description: Parse request bodies in a middleware before your handlers
+* Used Version: 1.18.3
+* Contributors: 24
+* https://github.com/expressjs/body-parser[GitHub-Repository,role=external,window=_blank]
+* Current Version: 1.19.0
+* Latest Commit: 27. March 2020
+
+== btoa
+
+* Description: Turns binary data to base64-encoded ascii.
+* Used Version: 1.2.1
+* Contributors: 1
+* https://git.coolaj86.com/coolaj86/btoa.js.git[GitHub-Repository,role=external,window=_blank]
+* Current Version: 1.2.1
+* Latest Commit: 28. March 2018
+
+== colors
+
+* Description: Provides colors for node.js console
+* Used Version: 1.3.2
+* Contributors: 44
+* https://github.com/Marak/colors.js[GitHub-Repository,role=external,window=_blank]
+* Current Version: 1.4.0
+* Latest Commit: 31. December 2019
+
+== config
+
+* Description: Organizes hierarchical configurations for your app deployments.
+* Used Version: 2.0.1
+* Contributors: 86
+* https://github.com/lorenwest/node-config[GitHub-Repository,role=external,window=_blank]
+* Current Version: 3.3.3
+* Latest Commit: 3. December 2020
+
+== cookie
+
+* Description: Basic HTTP cookie parser and serializer for HTTP servers.
+* Used Version: 0.3.1
+* Contributors: 20
+* https://github.com/jshttp/cookie[GitHub-Repository,role=external,window=_blank]
+* Current Version: 0.4.1
+* Latest Commit: 5. July 2020
+
+== debug
+
+* Description: Debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers
+* Used Version: 4.1.0
+* Contributors: 109
+* https://github.com/visionmedia/debug[GitHub-Repository,role=external,window=_blank]
+* Current Version: 4.3.2
+* Latest Commit: 9. December 2020
+
+== express
+
+* Description: Is a minimal and flexible Node.js web application framework that provides a robust set of features for web
+and mobile applications
+* Used Version: 4.16.4
+* Contributors: 262
+* https://github.com/expressjs/express[GitHub-Repository,role=external,window=_blank]
+* Current Version: 4.17.1
+* Latest Commit: 17. September 2020
+
+== express-async-errors
+
+* Description: Instead of patching all methods on an express Router, it wraps the Layer#handle property in one place.
+* Used Version: 3.1.1
+* Contributors: 1
+* https://github.com/davidbanham/express-async-errors[GitHub-Repository,role=external,window=_blank]
+* Current Version: 3.1.1
+* Latest Commit: 9. April 2020
+
+== fs-extra
+
+* Description: fs-extra adds file system methods that aren't included in the native fs module and adds promise
+support to the fs methods.
+* Used Version: 7.0.1
+* Contributors: 75
+* https://github.com/jprichardson/node-fs-extra[GitHub-Repository,role=external,window=_blank]
+* Current Version: 9.0.1
+* Latest Commit: 29. July 2020
+
+== get-folder-size
+
+* Description: Get the size of a folder by iterating through its sub-files and folders.
+* Used Version: 2.0.0
+* Contributors: 3
+* https://github.com/alessioalex/get-folder-size[GitHub-Repository,role=external,window=_blank]
+* Current Version: 2.0.1
+* Latest Commit: 21. January 2019
+
+== joi
+
+* Description: The most powerful schema description language and data validator for JavaScript.
+* Used Version: 14.0.1
+* Contributors: 183
+* https://github.com/sideway/joi[GitHub-Repository,role=external,window=_blank]
+* Current Version: 17.3.0
+* Latest Commit: 24. October 2020
+
+== joi-objectid
+
+* Description: A MongoDB ObjectId validator for Joi.
+* Used Version: 2.0.0
+* Contributors: 1
+* https://github.com/mkg20001/joi-objectid[GitHub-Repository,role=external,window=_blank]
+* Current Version: 3.0.1
+* Latest Commit: 26. September 2019
+
+== jsdoc
+
+* Description: An API documentation generator for JavaScript.
+* Used Version: 3.6.2
+* Contributors: 85
+* https://github.com/jsdoc/jsdoc[GitHub-Repository,role=external,window=_blank]
+* Current Version: 3.6.6
+* Latest Commit: 13. December 2020
+
+== jsonwebtoken
+
+* Description: An implementation of JSON Web Tokens.
+* Used Version: 8.3.0
+* Contributors: 93
+* https://github.com/auth0/node-jsonwebtoken[GitHub-Repository,role=external,window=_blank]
+* Current Version: 8.5.1
+* Latest Commit: 9. November 2020
+
+== lodash
+
+* Description: Makes JavaScript easier by taking the hassle out of working with arrays,
+numbers, objects, strings
+* Used Version: 4.17.11
+* Contributors: 307
+* https://github.com/lodash/lodash[GitHub-Repository,role=external,window=_blank]
+* Current Version: 4.17.20
+* Latest Commit: 21. December 2020
+
+== mongoose
+
+* Description: Is a MongoDB object modeling tool designed to work in an asynchronous environment.
+Mongoose supports both promises and callbacks
+* Used Version: 5.3.7
+* Contributors: 547
+* https://github.com/Automattic/mongoose[GitHub-Repository,role=external,window=_blank]
+* Current Version: 5.11.8
+* Latest Commit: 21. December 2020
+
+== nodejs-fs-utils
+
+* Description: Provides extra utilities for Node.js FileSystem
+* Used Version: 1.1.2
+* Contributors: 2
+* https://github.com/sergiu-gordienco/nodejs-fs-utils[GitHub-Repository,role=external,window=_blank]
+* Current Version: 1.2.5
+* Latest Commit: 8. May 2020
+
+== winston
+
+* Description: A logger for "just about everything".
+* Used Version: 2.4.0
+* Contributors: 325
+* https://github.com/winstonjs/winston[GitHub-Repository,role=external,window=_blank]
+* Current Version: 3.3.3
+* Latest Commit: 29. August 2020
+
+== winston-daily-rotate-file
+
+* Description: Transport for winston which logs to a rotating file. Logs can be rotated based on a date, size limit,
+and old logs can be removed based on count or elapsed days.
+* Used Version: 3.6.0
+* Contributors: 29
+* https://github.com/winstonjs/winston-daily-rotate-file[GitHub-Repository,role=external,window=_blank]
+* Current Version: 4.5.0
+* Latest Commit: 5. October 2020
+
+== winston-mongodb
+
+* Description: A MongoDB transport for winston.
+* Used Version: 3.0.0
+* Contributors: 34
+* https://github.com/winstonjs/winston-mongodb[GitHub-Repository,role=external,window=_blank]
+* Current Version: 5.0.5
+* Latest Commit: 13. September 2020
