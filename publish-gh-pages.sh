@@ -4,10 +4,10 @@
 # ONLY WORKS FROM THE PROJECT DIR
 # WILL PUBLISH STUFF ON THE WEBSITE, DON'T SCREW UP
 BUILD_DIR="gh-pages"
-OLD=$(PWD)
+OLD=$(pwd)
 echo $OLD
 ORIGIN_URL=$(git config --get remote.origin.url)
-${PWD}/build-slides-docker.sh
+${pwd}/build-slides-docker.sh
 cd $BUILD_DIR
 git init
 git add .
